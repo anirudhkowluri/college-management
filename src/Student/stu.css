@@ -1,0 +1,118 @@
+.lnk{
+    background-color: orangered;
+    padding: 8px;
+    border-radius: 2px;
+    color:white
+}
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  
+  .heading {
+    color: #333;
+    font-size: 32px;
+    margin-bottom: 10px;
+  }
+  
+  .welcome {
+    color: #666;
+    font-size: 20px;
+    margin-bottom: 5px;
+  }
+  
+  .father-email {
+    color: #999;
+    font-size: 16px;
+    margin-bottom: 20px;
+  }
+  
+  .button-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  .logout-button {
+    background-color: #ff6b6b;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .logout-button:hover {
+    background-color: #ff4d4d;
+  }
+  
+  .link-container {
+    display: flex;
+  }
+  
+  .link {
+    background-color: #4d94ff;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    text-decoration: none;
+    margin-left: 10px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .link:hover {
+    background-color: #2f80ff;
+  }
+  
+  .marks-container {
+    max-height: 300px;
+    overflow-y: auto;
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .semester-card {
+    background-color: #f5f5f5;
+    padding: 20px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .semester-heading {
+    color: #333;
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .gpa {
+    color: #666;
+    font-size: 18px;
+    margin-bottom: 5px;
+  }
+  
+  .attendance {
+    color: #999;
+    font-size: 16px;
+  }
+  
+  .visualize-link {
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+  }
+  
+  .visualize-link:hover {
+    background-color: #45a049;
+  }
